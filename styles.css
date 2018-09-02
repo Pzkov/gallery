@@ -1,0 +1,22 @@
+body {
+	font-family: "Roboto Condensed";
+}
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1 {
+width: 30%;
+text-align: left;
+margin-left: 1.66%;
+border-bottom: 2px solid lightgrey;
+padding-left: 0;
+padding-bottom: 20px;
+}
+
+span:hover {
+color: lightgrey;
+background-color: black;
+}
